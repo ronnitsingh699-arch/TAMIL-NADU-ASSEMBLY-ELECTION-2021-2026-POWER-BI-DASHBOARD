@@ -46,12 +46,12 @@ The dashboard is designed to help users understand electoral shifts, identify em
 
 ## 📂 Repository Structure
 
-```
 Tamil-Nadu-Assembly-Election-Analysis/
 │
 ├── Tamil Nadu Election Dashboard.pbix
 ├── README.md
 ├── dashboard-preview.png
+
 ---
 
 ## 📈 Key Insights
@@ -66,11 +66,10 @@ Tamil-Nadu-Assembly-Election-Analysis/
 ---
 
 ## 📷 Dashboard Preview
-
-<img width="1438" height="802" alt="Screenshot 2026-07-10 114047" src="https://github.com/user-attachments/assets/ba2d5b94-cf8b-47db-8ce7-791a954a53a2" />
-<img width="1145" height="663" alt="Screenshot 2026-07-08 200356" src="https://github.com/user-attachments/assets/9be488b8-e02f-43c6-9307-923a33274acd" />
-<img width="1432" height="803" alt="Screenshot 2026-07-10 114437" src="https://github.com/user-attachments/assets/53ceddf3-6e0a-478d-aec5-c06b48fad62a" />
-<img width="1436" height="807" alt="Screenshot 2026-07-10 114241" src="https://github.com/user-attachments/assets/91bb24dd-122e-4b8b-80ed-51cef970d283" />
+<img width="1438" height="802" alt="Screenshot 2026-07-10 114047" src="https://github.com/user-attachments/assets/d3e15c82-d30e-41d5-b7ee-a499854dbc53" />
+<img width="1145" height="663" alt="Screenshot 2026-07-08 200356" src="https://github.com/user-attachments/assets/1aba87d3-9a2a-4926-9913-ef83752d124a" />
+<img width="1432" height="803" alt="Screenshot 2026-07-10 114437" src="https://github.com/user-attachments/assets/a5374b5c-a57f-44c3-bfc0-886ce3e33288" />
+<img width="1436" height="807" alt="Screenshot 2026-07-10 114241" src="https://github.com/user-attachments/assets/6078d315-4dc9-476f-aa6b-4c05266ec235" />
 
 ---
 
@@ -97,18 +96,7 @@ Tamil-Nadu-Assembly-Election-Analysis/
 
 ---
 
-## 📚 Data Source
-
-- Election Commission of India (ECI)
-- Publicly available election datasets
-
-The 2026 comparison is based on official Election Commission of India results and vote-share data. :contentReference[oaicite:1]{index=1}
-
----
-
 ## 💼 Why This Project?
-
-This project demonstrates the ability to:
 
 - Build interactive Power BI dashboards
 - Perform comparative data analysis
@@ -122,6 +110,7 @@ This project demonstrates the ability to:
 
 **RONNIT SINGH**
 
-⭐ **If you found this project useful, please consider giving it a Star!**
+---
 
+⭐ **If you found this project useful, please consider giving it a Star!**
 
